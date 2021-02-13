@@ -1,5 +1,0 @@
-streamlit>=0.75.0 
-streamlit-folium>=0.1.0
-plotly>=4.14.3
-geopy>=2.1.0
-folium>=0.11.0
