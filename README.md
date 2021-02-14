@@ -6,17 +6,21 @@
 ## Steps involved :
 1. [Data collection](https://github.com/kadatatlukishore/Best-Universities-to-Study-Abroad-2021/tree/main/Data%20Collection)
 2. [Data Preparation](https://github.com/kadatatlukishore/Best-Universities-to-Study-Abroad-2021/tree/main/Data%20Preparation)
-3. [Web-App](https://github.com/kadatatlukishore/Best-Universities-to-Study-Abroad-2021/tree/main/Web-App)
+3. [app.py](https://github.com/kadatatlukishore/Best-Universities-to-Study-Abroad-2021/blob/main/app.py)
+
 ### Directory Tree
 ```
-├── Data Collection  
+├── Data Collection 
+|     ├── UniversityDataExtraction(filename:tableextractor.py) - Web Scraping
+|     ├── GDPData2020(filename:GDPdata2020.py) - Web Scraping
 ├── Data preparation 
-|__ Web App
-   ├── Data
-   ├── app.py
-   ├── requirements.txt
-   ├── setup.sh
-   |__ Procfile
+├── Data
+|     ├── UniversityData
+|     ├── Data related to countries
+├── app.py
+├── requirements.txt
+├── setup.sh
+|__ Procfile
 
 ```
 ## Installation:
