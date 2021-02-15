@@ -1,4 +1,4 @@
-# Best-Universities-to-study-abroad-in-2021
+# Best Universities to Study Abroad in 2021
 
 Data Scraped from:
 - Times Higher Education - World University Rankings: https://www.timeshighereducation.com/world-university-rankings/2020/world-ranking#!/page/0/length/25/sort_by/rank/sort_order/asc/cols/stats
