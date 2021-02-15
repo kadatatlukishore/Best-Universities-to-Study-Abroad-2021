@@ -4,7 +4,7 @@ Data Scraped from:
 - Times Higher Education - World University Rankings: https://www.timeshighereducation.com/world-university-rankings/2020/world-ranking#!/page/0/length/25/sort_by/rank/sort_order/asc/cols/stats
 - GDP Data 2020: https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)
 ## Demo:
-Link: 
+Link: https://bestuniversitiesanalysis.herokuapp.com/
 ## Steps involved :
 1. [Data collection](https://github.com/kadatatlukishore/Best-Universities-to-Study-Abroad-2021/tree/main/Data%20Collection)      
 2. [Data Preparation](https://github.com/kadatatlukishore/Best-Universities-to-Study-Abroad-2021/tree/main/Data%20Preparation)
